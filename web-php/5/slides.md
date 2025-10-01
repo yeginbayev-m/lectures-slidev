@@ -5,8 +5,9 @@ theme: seriph
 background: https://cover.sli.dev
 # some information about your slides (markdown enabled)
 title: Веб-программирование на PHP
+transition: none
 drawings:
-  persist: false
+  persist: true
 
 mdc: true
 ---
